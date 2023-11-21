@@ -1,0 +1,19 @@
+
+.text{
+  text-align:center;
+}
+.title{
+  background-color: indigo;
+  color:white
+}
+.image{
+   height: 300px;
+   width: 600px;
+}
+.b{
+  background-color: bisque;
+  text-align: center;
+}
+.lists{
+  list-style-position: inside;
+}
